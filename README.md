@@ -1,4 +1,4 @@
-# Hi, I'm Kavya Sree Maniga 👋
+# Hi, I'm Kavya Sree Maniga 
 
 **Senior Data Engineer** | 6+ Years | GCP · AWS · Azure | Healthcare & Fintech
 
